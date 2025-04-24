@@ -22,7 +22,7 @@ Users can create an account, generate a unique profile link, and share it across
 git clone https://github.com/BBhuwanJ/anonymousText
 ```
 ```bash
-cd anonymourText
+cd anonymousText
 ```
 ### Install dependencies
 ```bash
